@@ -1,3 +1,5 @@
 test c file
 
-Now this is another change, see if the dependency is handled correctly.
+blah 1
+
+blah 2
